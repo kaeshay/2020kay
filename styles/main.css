@@ -1,0 +1,24 @@
+html{
+	font-family: 'Space Mono', monospace;
+}
+#container{
+	display:flex;
+	position:absolute;
+	border:2px solid #ccc;
+	padding:20px;
+}
+.pack{
+	width:200px;
+	border:2px solid #fff;
+	margin:20px;
+	margin-bottom:40px;
+}
+.img{
+	width:200px;
+}
+.text{
+	font-size:10px;
+}
+.heading{
+	font-size:12px;
+}
